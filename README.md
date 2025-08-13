@@ -9,8 +9,7 @@ A beautiful and responsive weather app built using HTML, CSS, and JavaScript.
 - Dark/Light mode toggle
 - Mobile responsive layout
 
-## 📸 Screenshots
-![Weather App Screenshot](screenshot.png)
+
 
 ## 🛠️ Technologies Used
 - HTML5, CSS3
