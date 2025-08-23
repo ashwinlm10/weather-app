@@ -26,5 +26,5 @@ A beautiful and responsive weather app built using HTML, CSS, and JavaScript.
 [OpenWeatherMap](https://openweathermap.org/api)
 
 ## 🧑‍💻 Author
-Ashwin ([@yourGitHub](https://github.com/yourGitHub))
+Ashwin ([@yourGitHub](https://github.com/ashwinlm10/weather-app))
 
